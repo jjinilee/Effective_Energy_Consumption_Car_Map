@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1619108231 source:d:\code blocks\algorithms_y3880184\src\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"graph.h"
+
+1619012378 d:\code blocks\algorithms_y3880184\src\graph.h
+	"list.h"
+
+1619096769 d:\code blocks\algorithms_y3880184\src\list.h
+
+1619107807 source:d:\code blocks\algorithms_y3880184\src\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1619092464 source:d:\code blocks\algorithms_y3880184\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"graph.h"
+
+1619108231 source:d:\code blocks\wirelessly_charged_electric_cars\src\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"graph.h"
+
+1619012378 d:\code blocks\wirelessly_charged_electric_cars\src\graph.h
+	"list.h"
+
+1619096769 d:\code blocks\wirelessly_charged_electric_cars\src\list.h
+
+1619107807 source:d:\code blocks\wirelessly_charged_electric_cars\src\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1619092464 source:d:\code blocks\wirelessly_charged_electric_cars\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"graph.h"
+
