@@ -1,4 +1,4 @@
-# Electric cars
+# The map of the effective energy consumption of electric cars
 
 
 Imagine we are now in the future where electric cars are the norm and they can be charged when the car passes over certain roads as there will be wireless chargers under the roads. We will not have to go to the petrol station anymore to fill up with petrol but instead, we want to travel in the best possible path where we spend the least energy while travelling from one city to the other. 
